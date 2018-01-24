@@ -1,7 +1,7 @@
 # Transport-Optimization
 
 #Problem 1
-Given the timetables of trolleybus arrival, there is  an algorithm to optimize the traffic from station Ștefan cel Mare to station Circul. And also we can visualize the result. Finally the maximum interval between two trolleybuses became twice smaller than in the initial case.
+Given the timetables of trolleybus arrival, there is  an algorithm to optimize the traffic from station Ștefan cel Mare to station Circul. You can visualize the result. Finally the maximum interval between two trolleybuses became twice smaller than in the initial case.
 
 
 #Problem 2
