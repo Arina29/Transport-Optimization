@@ -2,7 +2,7 @@
 
 #Problem 1
 Given the timetables of trolleybus arrival, there is  an algorithm to optimize the traffic from station Ștefan cel Mare to station Circul. Visualize the data output of your solution.
-![alt text](screenshots/filename.png "Description goes here")
+
 
 #Problem 2
 Given the timetables of trolleybus arrival, there is algorithm to optimize the traffic among all given stations.
